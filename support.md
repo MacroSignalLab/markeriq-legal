@@ -30,5 +30,5 @@ An iPhone running iOS 17 or later.
 
 ## Contact
 
-Email [sekaren.b@gmail.com](mailto:sekaren.b@gmail.com) and include your iPhone
+Email [macrosignallab@gmail.com](mailto:macrosignallab@gmail.com) and include your iPhone
 model and iOS version if you're reporting a problem.
