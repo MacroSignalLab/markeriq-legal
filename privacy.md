@@ -72,4 +72,4 @@ new "Last updated" date.
 
 ## Contact
 
-Questions about this policy: [sekaren.b@gmail.com](mailto:sekaren.b@gmail.com)
+Questions about this policy: [macrosignallab@gmail.com](mailto:macrosignallab@gmail.com)
